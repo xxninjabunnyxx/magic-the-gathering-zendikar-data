@@ -1,0 +1,108 @@
+---
+object: card
+id: 327cf118-cc92-4073-85d0-94d2a0a6989a
+oracle_id: cb027150-848c-4a66-88ad-e20222304dd8
+multiverse_ids:
+- 190393
+mtgo_id: 34590
+mtgo_foil_id: 34591
+tcgplayer_id: 33417
+cardmarket_id: 21786
+name: Scalding Tarn
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/327cf118-cc92-4073-85d0-94d2a0a6989a
+scryfall_uri: https://scryfall.com/card/zen/223/scalding-tarn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115
+  normal: https://cards.scryfall.io/normal/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115
+  large: https://cards.scryfall.io/large/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115
+  png: https://cards.scryfall.io/png/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.png?1562611115
+  art_crop: https://cards.scryfall.io/art_crop/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115
+  border_crop: https://cards.scryfall.io/border_crop/front/3/2/327cf118-cc92-4073-85d0-94d2a0a6989a.jpg?1562611115
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an
+  Island or Mountain card, put it onto the battlefield, then shuffle."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/327cf118-cc92-4073-85d0-94d2a0a6989a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb027150-848c-4a66-88ad-e20222304dd8&unique=prints
+collector_number: '223'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Philip Straub
+artist_ids:
+- 43cdce85-e4bc-424e-ac95-fd0886b66ff3
+illustration_id: 68e3496e-d1f3-44d8-b524-4215608456a8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 51
+prices:
+  usd: '21.38'
+  usd_foil: '94.60'
+  usd_etched: 
+  eur: '23.09'
+  eur_foil: '50.00'
+  tix: '5.95'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190393
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scalding+Tarn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scalding+Tarn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scalding+Tarn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33417?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scalding+Tarn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34590?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

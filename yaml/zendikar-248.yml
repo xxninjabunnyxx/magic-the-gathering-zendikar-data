@@ -1,0 +1,109 @@
+---
+object: card
+id: 52c21f91-6679-4adb-baf2-b06cf505150c
+oracle_id: b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6
+multiverse_ids:
+- 195177
+mtgo_id: 34856
+mtgo_foil_id: 34857
+tcgplayer_id: 71473
+cardmarket_id: 21721
+name: Forest
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/52c21f91-6679-4adb-baf2-b06cf505150c
+scryfall_uri: https://scryfall.com/card/zen/248/forest?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.jpg?1562612206
+  normal: https://cards.scryfall.io/normal/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.jpg?1562612206
+  large: https://cards.scryfall.io/large/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.jpg?1562612206
+  png: https://cards.scryfall.io/png/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.png?1562612206
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.jpg?1562612206
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/52c21f91-6679-4adb-baf2-b06cf505150c.jpg?1562612206
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Forest
+oracle_text: "({T}: Add {G}.)"
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/52c21f91-6679-4adb-baf2-b06cf505150c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints
+collector_number: '248'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Véronique Meignaud
+artist_ids:
+- 41084244-a313-4d14-8123-db05855f9cfe
+illustration_id: a1ce0e40-dcd1-4712-b07a-171d77ec25d4
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '1.12'
+  usd_foil: '19.86'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '7.89'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=195177
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forest&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Forest
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71473?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34856?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

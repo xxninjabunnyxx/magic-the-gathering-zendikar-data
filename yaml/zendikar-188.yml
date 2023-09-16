@@ -1,0 +1,115 @@
+---
+object: card
+id: 45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1
+oracle_id: f772e767-a931-4891-94eb-d92a8ca7f8c1
+multiverse_ids:
+- 170971
+mtgo_id: 34362
+mtgo_foil_id: 34363
+tcgplayer_id: 33451
+cardmarket_id: 21959
+name: Territorial Baloth
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1
+scryfall_uri: https://scryfall.com/card/zen/188/territorial-baloth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.jpg?1562611772
+  normal: https://cards.scryfall.io/normal/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.jpg?1562611772
+  large: https://cards.scryfall.io/large/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.jpg?1562611772
+  png: https://cards.scryfall.io/png/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.png?1562611772
+  art_crop: https://cards.scryfall.io/art_crop/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.jpg?1562611772
+  border_crop: https://cards.scryfall.io/border_crop/front/4/5/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1.jpg?1562611772
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Beast
+oracle_text: Landfall — Whenever a land enters the battlefield under your control,
+  Territorial Baloth gets +2/+2 until end of turn.
+power: '4'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Landfall
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af772e767-a931-4891-94eb-d92a8ca7f8c1&unique=prints
+collector_number: '188'
+digital: false
+rarity: common
+flavor_text: Its territory is defined by wherever it is at the moment.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: 8812f87f-a67b-46c4-bbef-8676a3a862ff
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18017
+penny_rank: 10326
+prices:
+  usd: '0.02'
+  usd_foil: '0.21'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.18'
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=170971
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Territorial+Baloth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Territorial+Baloth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Territorial+Baloth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33451?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Territorial+Baloth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34362?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

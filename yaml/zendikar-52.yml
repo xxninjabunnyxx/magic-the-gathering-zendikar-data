@@ -1,0 +1,115 @@
+---
+object: card
+id: 107a4e2b-e463-46f3-a431-66ea954ef487
+oracle_id: 7260657a-c1cd-4081-8ab5-46d604dccca8
+multiverse_ids:
+- 189636
+mtgo_id: 34584
+mtgo_foil_id: 34585
+tcgplayer_id: 33354
+cardmarket_id: 21877
+name: Living Tsunami
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/107a4e2b-e463-46f3-a431-66ea954ef487
+scryfall_uri: https://scryfall.com/card/zen/52/living-tsunami?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904
+  normal: https://cards.scryfall.io/normal/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904
+  large: https://cards.scryfall.io/large/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904
+  png: https://cards.scryfall.io/png/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.png?1562609904
+  art_crop: https://cards.scryfall.io/art_crop/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904
+  border_crop: https://cards.scryfall.io/border_crop/front/1/0/107a4e2b-e463-46f3-a431-66ea954ef487.jpg?1562609904
+mana_cost: "{2}{U}{U}"
+cmc: 4.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Flying
+  At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+power: '4'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/107a4e2b-e463-46f3-a431-66ea954ef487/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7260657a-c1cd-4081-8ab5-46d604dccca8&unique=prints
+collector_number: '52'
+digital: false
+rarity: uncommon
+flavor_text: At low tide it slumbers. At high tide it devours.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 0daf50ba-b195-472a-b67b-d45cb66e4a1c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22196
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: '0.20'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189636
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Living+Tsunami&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Living+Tsunami&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Living+Tsunami
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33354?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Living+Tsunami&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34584?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

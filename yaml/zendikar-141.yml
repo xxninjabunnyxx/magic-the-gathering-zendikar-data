@@ -1,0 +1,119 @@
+---
+object: card
+id: fd8b5c0c-acda-411e-9f17-6d9292628a56
+oracle_id: d1efc4fd-2978-4434-8fdf-ddc05484ebb1
+multiverse_ids:
+- 170977
+mtgo_id: 34366
+mtgo_foil_id: 34367
+tcgplayer_id: 33396
+cardmarket_id: 21756
+name: Plated Geopede
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/fd8b5c0c-acda-411e-9f17-6d9292628a56
+scryfall_uri: https://scryfall.com/card/zen/141/plated-geopede?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.jpg?1562618689
+  normal: https://cards.scryfall.io/normal/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.jpg?1562618689
+  large: https://cards.scryfall.io/large/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.jpg?1562618689
+  png: https://cards.scryfall.io/png/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.png?1562618689
+  art_crop: https://cards.scryfall.io/art_crop/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.jpg?1562618689
+  border_crop: https://cards.scryfall.io/border_crop/front/f/d/fd8b5c0c-acda-411e-9f17-6d9292628a56.jpg?1562618689
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Insect
+oracle_text: |-
+  First strike
+  Landfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- First strike
+- Landfall
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fd8b5c0c-acda-411e-9f17-6d9292628a56/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1efc4fd-2978-4434-8fdf-ddc05484ebb1&unique=prints
+collector_number: '141'
+digital: false
+rarity: common
+flavor_text: |-
+  "Kor armorers buy the scales and claws. Elf oracles buy the rest."
+  —Nablus, North Hada trapper
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: cc876b9a-a843-491d-8f47-2cd26bf4837c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19289
+penny_rank: 7187
+prices:
+  usd: '0.08'
+  usd_foil: '1.05'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.95'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=170977
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plated+Geopede&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plated+Geopede&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plated+Geopede
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33396?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plated+Geopede&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34366?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

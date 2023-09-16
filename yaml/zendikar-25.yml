@@ -1,0 +1,125 @@
+---
+object: card
+id: e9f3a20f-a788-4d8b-946b-d9c1c983a85a
+oracle_id: 90076bf5-aa9a-4a6e-9035-9aa97fd5561e
+multiverse_ids:
+- 197889
+mtgo_id: 34816
+mtgo_foil_id: 34817
+tcgplayer_id: 33358
+cardmarket_id: 21725
+name: Luminarch Ascension
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/e9f3a20f-a788-4d8b-946b-d9c1c983a85a
+scryfall_uri: https://scryfall.com/card/zen/25/luminarch-ascension?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913
+  normal: https://cards.scryfall.io/normal/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913
+  large: https://cards.scryfall.io/large/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913
+  png: https://cards.scryfall.io/png/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.png?1562617913
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e9f3a20f-a788-4d8b-946b-d9c1c983a85a.jpg?1562617913
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: |-
+  At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)
+  {1}{W}: Create a 4/4 white Angel creature token with flying. Activate only if Luminarch Ascension has four or more quest counters on it.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 1fc37484-b58b-4a42-9281-b4272dc7c872
+  component: token
+  name: Angel
+  type_line: Token Creature — Angel
+  uri: https://api.scryfall.com/cards/1fc37484-b58b-4a42-9281-b4272dc7c872
+- object: related_card
+  id: e9f3a20f-a788-4d8b-946b-d9c1c983a85a
+  component: combo_piece
+  name: Luminarch Ascension
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/e9f3a20f-a788-4d8b-946b-d9c1c983a85a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e9f3a20f-a788-4d8b-946b-d9c1c983a85a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90076bf5-aa9a-4a6e-9035-9aa97fd5561e&unique=prints
+collector_number: '25'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Komarck
+artist_ids:
+- 96a53b95-fe5f-4fbb-9411-ccf4ee150aca
+illustration_id: b3b760ee-095f-497e-b741-414327d5947a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1528
+penny_rank: 2169
+prices:
+  usd: '13.31'
+  usd_foil: '23.67'
+  usd_etched: 
+  eur: '6.71'
+  eur_foil: '14.80'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197889
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Luminarch+Ascension&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Luminarch+Ascension&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Luminarch+Ascension
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33358?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Luminarch+Ascension&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34816?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

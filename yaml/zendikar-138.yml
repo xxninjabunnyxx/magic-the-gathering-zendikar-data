@@ -1,0 +1,114 @@
+---
+object: card
+id: 9ebc7622-e7a7-419c-abb4-d9d339e6cdb0
+oracle_id: 697c851d-8475-479e-8783-cebdbe9a892d
+multiverse_ids:
+- 191359
+mtgo_id: 34502
+mtgo_foil_id: 34503
+tcgplayer_id: 33374
+cardmarket_id: 21930
+name: Molten Ravager
+lang: en
+released_at: '2009-10-02'
+uri: https://api.scryfall.com/cards/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0
+scryfall_uri: https://scryfall.com/card/zen/138/molten-ravager?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.jpg?1592485499
+  normal: https://cards.scryfall.io/normal/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.jpg?1592485499
+  large: https://cards.scryfall.io/large/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.jpg?1592485499
+  png: https://cards.scryfall.io/png/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.png?1592485499
+  art_crop: https://cards.scryfall.io/art_crop/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.jpg?1592485499
+  border_crop: https://cards.scryfall.io/border_crop/front/9/e/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0.jpg?1592485499
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Elemental
+oracle_text: "{R}: Molten Ravager gets +1/+0 until end of turn."
+power: '0'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set: zen
+set_name: Zendikar
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9ebc7622-e7a7-419c-abb4-d9d339e6cdb0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A697c851d-8475-479e-8783-cebdbe9a892d&unique=prints
+collector_number: '138'
+digital: false
+rarity: common
+flavor_text: |-
+  "Only the foolhardy would venture into the Akoum Mountains without a lullmage to tame the raging rocks and living fires."
+  —Sachir, Akoum Expeditionary House
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Kendall
+artist_ids:
+- 8a5540a8-18c9-4fa9-802c-59d6866114d5
+illustration_id: cce35ff4-e8a0-47f4-8888-7e416366a1bd
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24329
+prices:
+  usd: '0.08'
+  usd_foil: '0.24'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.03'
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191359
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Molten+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Molten+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Molten+Ravager
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/33374?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Molten+Ravager&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/34502?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
